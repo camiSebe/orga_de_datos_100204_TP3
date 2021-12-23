@@ -1,9 +1,12 @@
-# orga_de_datos_100204_TP3
+# TP 3 – Machine Learning I
 
-Primer archivo:
-tp3_100204_0_merge_iniciales.ipynb  <br> <br>
+•	Nombre y Apellido: Camila Belén Sebellin <br>
+•	Padrón: 100204 <br>
+•	Ayudante Asignado: Damián <br>
 
-## Analisis exploratorio y visus:
+
+## Analisis exploratorio y visus para regresión logística:
+tp3_100204_0_merge_iniciales.ipynb
 tp3_100204_parte_1_visus (1).ipynb  <br> <br>
 
 ## Machine learning baseline:
@@ -11,6 +14,10 @@ tp3_100204_regresion_logistica_1_entrenamiento_y_testeo.ipynb
 tp3_100204_regresion_logistica_2_busqueda_de_hiperparametros.ipynb
 ### Archivo csv para sumit en kaggle con prediccion hecha con la regresión logistica:
 submit_logistic_regression (1).csv  <br> <br>
+
+
+## Archivos con encodings pedidos por la catedra para la tercera parte:
+tp3_100204_merge_y_encoding_con_cv.ipynb <br> <br>
 
 ## Machine learning Modelo 1: Random Forest
 tp3_100204_modelo_1_con_busqueda_de_hp.ipynb
