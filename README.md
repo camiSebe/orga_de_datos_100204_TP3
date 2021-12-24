@@ -27,7 +27,7 @@ submit_random_forest_1 (4).csv  <br>
 submit_random_forest_best_params (2).csv  <br> <br>
 
 ## Machine learning Modelo 2: Gradient Boosting
-tp3_100204_modelo_2.ipynb <br>
+tp3_100204_modelo_2 (2).ipynb <br>
 tp3_100204_modelo_2_best_params.ipynb <br>
 ### Archivo csv para sumit en kaggle con prediccion hecha con GradientBoosting:
 submit_gradient_boosting_1 (1).csv  <br>
